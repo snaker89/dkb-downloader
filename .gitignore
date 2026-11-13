@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Heruntergeladene Bankdaten niemals committen
+downloads/
+*.pdf
+*.json

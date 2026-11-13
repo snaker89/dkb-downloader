@@ -1,0 +1,2 @@
+dkb-robo==0.31.2
+playwright==1.65.1
