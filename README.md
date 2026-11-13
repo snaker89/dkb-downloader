@@ -1,4 +1,4 @@
-# dkb-wertpapiere
+# dkb-downloader
 
 Lädt alle **Wertpapierdokumente** aus der DKB-Postbox als PDF herunter, zum Beispiel für den Import in
 [Portfolio Performance](https://www.portfolio-performance.info/). Dazu gehören Kauf- und Verkaufsabrechnungen,
@@ -29,8 +29,8 @@ nach einem Abbruch kannst du also einfach neu starten.
 ## Einrichtung
 
 ```powershell
-git clone https://github.com/snaker89/dkb-wertpapiere.git
-cd dkb-wertpapiere
+git clone https://github.com/snaker89/dkb-downloader.git
+cd dkb-downloader
 .\setup.ps1
 ```
 
